@@ -111,6 +111,12 @@ In progress.
   )
 ]<fig:unconditional-unif>
 
+= Prediction Applications
+We specify a generic data generating process (DGP).
+$
+  Y = QQ_U (Y | bold(X)), quad"where" U tilde "Uniform"[0, 1].
+$
+
 #bibliography(("typst/zheng_2011.bib"), style:"chicago-author-date")
 
 /*------------------------------------------------------------------------------
